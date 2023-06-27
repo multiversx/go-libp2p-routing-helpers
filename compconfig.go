@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/libp2p/go-libp2p/core/routing"
 	"github.com/multiformats/go-multihash"
+	"github.com/multiversx/go-libp2p/core/routing"
 )
 
 type ParallelRouter struct {

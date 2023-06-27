@@ -8,7 +8,7 @@ import (
 	"github.com/hashicorp/errwrap"
 	"github.com/ipfs/go-cid"
 	record "github.com/libp2p/go-libp2p-record"
-	"github.com/libp2p/go-libp2p/core/routing"
+	"github.com/multiversx/go-libp2p/core/routing"
 )
 
 type testValidator struct{}
